@@ -4,5 +4,6 @@ The lane detection & tailgating alerts (LDTA) system is a critical advancement f
 
 
 # Screenshots
-![new](https://github.com/user-attachments/assets/963e8d34-7cb8-4113-b443-9f8e38007b10)
 ![image](https://github.com/user-attachments/assets/ca77c86e-6d39-4e14-a056-97f5e6565e44)
+![image](https://github.com/user-attachments/assets/29759776-e9fe-4634-93c5-9e3a88f00188)
+![new](https://github.com/user-attachments/assets/963e8d34-7cb8-4113-b443-9f8e38007b10)
