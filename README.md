@@ -1,5 +1,5 @@
 # LDTA in-Autonomous-Vehicles
-The lane detection & tailgating alerts (LDTA) system is a critical advancement for road safety and autonomous driving in indian road systems. This system combines precise lane detection and tailgating alerts to prevent accidents and enhance overall safety.
+The Lane Detection and Tailgating Alert (LDTA) system utilizes the YOLOv8-n-seg model for real-time lane segmentation and tailgating detection, ensuring enhanced road safety. With impressive accuracy of 99.5% in box detection and 93.8% in mask detection, the system improves safety on Indian roads. It integrates lane marking detection and tailgating alerts, contributing to safer driving and autonomous vehicle technologies. This project demonstrates the application of AI in reducing accidents and enhancing road safety.
 # 
 
 
